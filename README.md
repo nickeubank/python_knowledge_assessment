@@ -1,1 +1,2 @@
-# python_knowledge_assessment_2020
+# MIDS 2020 Python Knowledge Assessment
+
